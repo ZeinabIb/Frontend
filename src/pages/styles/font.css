@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+  @font-face {
+    font-family: 'blankaregular';
+    src: url('../../assets/blanka-regular-webfont.woff2') format('woff2'),
+         url('../../assets/blanka-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.title{
+    font-family: 'blankaregular', sans-serif;
+    font-size:3.6rem;
+  
+   
+}
+
